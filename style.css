@@ -219,6 +219,11 @@ h2 {
   color: white;
 }
 
+.verde {
+  background:#237902;
+  color: white;
+}
+
 .coral {
   background: #9adbe8;
 }
@@ -307,4 +312,17 @@ footer {
   .projeto {
     min-height: 260px;
   }
+}
+
+.premio {
+  background: #071b33;
+  border-radius: 20px;
+  color: #f5b82e;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+  padding: 6px 14px;
+  text-transform: uppercase;
 }
